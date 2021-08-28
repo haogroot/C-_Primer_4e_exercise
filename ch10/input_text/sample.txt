@@ -1,0 +1,17 @@
+// source : https://9to5mac.com/2021/08/27/apple-launches-new-iphone-12-service-program-for-no-sound-issues/
+Apple today has launched a new service program for iPhone 12 and iPhone 12 Pro users who are facing issues with their device’s speakers. 
+Apple says that the affected devices “may experience sound issues due to a component that might fail on the receiver module.” 
+This marks the first service program for the iPhone 12 lineup.
+According to Apple, this issue affects “a very small percentage” of iPhone 12 and iPhone 12 Pro devices manufactured between October 2020 and April 2021. 
+Apple says that your iPhone is eligible for the program if it “does not emit sound from the receiver when you make or receive calls.”
+In a support document, Apple says:
+Apple has determined that a very small percentage of iPhone 12 and iPhone 12 Pro devices may experience sound issues due to a component that might fail on the receiver module. 
+Affected devices were manufactured between October 2020 and April 2021.
+If your iPhone 12 or iPhone 12 Pro does not emit sound from the receiver when you make or receive calls, it may be eligible for service.
+The program only applies to the iPhone 12 and iPhone 12 Pro, not the iPhone 12 mini or the iPhone 12 Pro Max. 
+The program covers affected iPhone 12 or iPhone 12 Pro devices for two years after the first retail sale of the unit.
+Apple says that Apple or an Apple Authorized Service Provider will service affected devices free of charge.
+Find an Apple Authorized Service Provider.
+Make an appointment at an Apple Retail Store.
+Contact Apple Support to arrange mail-in service via the Apple Repair Center.
+As always, Apple says that if your iPhone 12 or iPhone 12 Pro has “any damage which impairs the ability to complete the repair,” including a cracked screen, that issue will need to be resolved prior to the service.
